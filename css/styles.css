@@ -1,7 +1,40 @@
-img{
+img {
   max-width: 100%;
 }
 
 blockquote {
-  margin: 10px;
+  border: none;
+  padding-bottom: 20px;
+}
+
+.quote {
+  text-align: right;
+}
+
+footer {
+  text-align: right;
+}
+
+.jumbotron {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.well {
+  min-height: 700px;
+}
+
+.border {
+  border: 2px solid #66768e;
+  border-radius: 10%;
+}
+
+#top-photos {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+body {
+  background-image: url("../img/spring.png");
 }
