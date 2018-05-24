@@ -6,5 +6,5 @@
 
 ## Setup/Installation Requirements
 Here are the links to our GitHub repositories:  
-* [Rita's Repository:](https://github.com/ritabc/vacation-site)   
-* [Kevin's Repository:] (https://github.com/kevinahn7/vacation-site)  
+* [Rita's Repository](https://github.com/ritabc/vacation-site)   
+* [Kevin's Repository](https://github.com/kevinahn7/vacation-site)  
